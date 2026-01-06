@@ -9,7 +9,7 @@ Each project includes:
 - Key findings & recommendations
 
 ## Projects
-1. [Product Profitability Analysis](./01-product-profitability/)
+1. [Product Profitability Analysis]
    - Profit per product, category profitability, promote/discontinue recommendations
    - Power BI dashboard with KPIs, segmentation, and drilldowns
 
