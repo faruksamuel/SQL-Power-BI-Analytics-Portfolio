@@ -8,8 +8,8 @@ Each project includes:
 - Power BI dashboard (.pbix) + screenshots
 - Key findings & recommendations
 
-## Projects
-1. [Product Profitability Analysis]
+## Project
+### Product Profitability Analysis
    - Profit per product, category profitability, promote/discontinue recommendations
    - Power BI dashboard with KPIs, segmentation, and drilldowns
 
