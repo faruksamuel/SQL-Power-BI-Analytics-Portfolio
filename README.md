@@ -32,10 +32,12 @@ categories that drive the most profit to support business decision-making.
 - Business analytics & storytelling
 
 ## Repository Structure
-- `/sql` → SQL scripts used for analysis
-- `/powerbi` → Power BI dashboard file
-- `/screenshots` → Dashboard visuals
+- `/datasets` → CSV files used for the analysis
 - `/docs` → Assumptions and data dictionary
+- `/powerbi` → Power BI dashboard file
+- `/sql` → SQL scripts used for analysis
+- `/screenshots` → Dashboard visuals
+
 
 ## Dashboard Preview
 ![Dashboard](screenshots/dashboard_overview.png)
