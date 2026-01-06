@@ -1,9 +1,9 @@
 /*
-**********************************************************************************************************************************
+***********************************************************************************************************************************
 Project: Product Profitablity Analysis
 Author: Faruk S.A
 Tools: SQL Server
-Purpose: Analyze Product profitability to identify and discontinue candidates.
+Purpose: Analyze Product profitability to identify what product to continue, discontinue or Review.
 ************************************************************************************************************************************
 */
 
@@ -120,3 +120,4 @@ SELECT * FROM ProductMetrics
 WHERE UnitsSold > (SELECT AVG(UnitsSold) FROM ProductMetrics)
 	AND Profit_Margin < 0.10
 ORDER BY UnitsSold;
+
