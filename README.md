@@ -13,7 +13,7 @@ categories that drive the most profit to support business decision-making.
 - Which products sell a lot but make little money?
 
 ## Dataset
-**Source:** SQL Server  
+**Source:** AdventureWorks 2022  
 **Tables Used:**
 - `Sales` – transactional sales data
 - `Products` – product attributes and categories
